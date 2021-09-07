@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonnyCAPTAIN
-- 👀 I’m interested in web developmet
-- 🌱 I’m currently learning django web framework
+- 👀 I’m interested in web development
+- 🌱 backend  web developer
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me tonnycaptain7@gmail.com
 
