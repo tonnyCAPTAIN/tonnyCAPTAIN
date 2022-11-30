@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonnyCAPTAIN
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and software engineering
 - 🌱 backend  web developer
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python, javascript, C
 - 📫 How to reach me tonnycaptain7@gmail.com
 
 <!---
